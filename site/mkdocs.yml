@@ -1,0 +1,47 @@
+site_name: TMS Docs
+
+nav:
+  - 'HOME': 'frontpage.md'
+  - 'INWESTUJ':
+      - 'Inwestuj/konto-tms.md'
+      - 'Inwestuj/konto-real-vs-demo.md'
+      - 'Inwestuj/klient-profesjonalny.md'
+      - 'Inwestuj/klient-doswiadczony.md'
+      - 'Inwestuj/aplikacja-mobilna.md'
+      - 'Inwestuj/platformy-mt5.md'
+      - 'Inwestuj/zasil-rachunek.md'
+      - 'Inwestuj/pobierz.md'
+      - 'Inwestuj/kontakt.md'
+  - 'W CO INWESTOWAC' :
+      - 'w-co-inwestowac/forex.md'
+      - 'w-co-inwestowac/indeksy.md'
+      - 'w-co-inwestowac/surowce.md'
+      - 'w-co-inwestowac/akcje.md'
+      - 'w-co-inwestowac/akcje-CFD.md'
+      - 'w-co-inwestowac/kryptowaluty.md'
+      - 'w-co-inwestowac/fundusze-etf.md'
+      - 'w-co-inwestowac/specyfikacja-instrumentow.md'
+  - 'EDUKCJA':
+      - 'edukacja/kalendarz-szkolen.md'
+      - 'edukacja/baz- wiedzy.md'
+      - 'edukacja/blog.md'
+      - 'edukacja/strefa-wideo.md'
+      - 'edukacja/slownik-definicji.md'
+      - 'edukacja/centrum-pomocy.md'
+  - 'RYNEK':
+      - 'rynek/tms-nonstop.md'
+      - 'rynek/kalendarz-rynkowy.md'
+      - 'rynek/notowania-live.md'
+  - 'KONTOR':
+      - 'kontor/o-usludze.md'
+      - 'kontor/zaloz-konto.md'
+      - 'kontor/logowanie.md'
+      - 'kontor/strefa-klienta.md'
+      - 'kontor/kontakt.md'
+  - 'MODULES':
+      - 'modules/contribute.md'
+      - 'modules/custom.md'
+  - 'BLOCKS':
+      - 'blocks/index.md'
+  - 'VIEWS':
+      - 'views/index.md'
